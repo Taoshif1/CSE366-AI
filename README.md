@@ -1,1 +1,1 @@
-# CSE 366 - Artificial Intelligence Course Codes
+# CSE366 - Artificial Intelligence Course Codes
