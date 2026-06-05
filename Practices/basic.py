@@ -548,7 +548,7 @@ import math
 # MODULE 18: ENUMERATE FUNCTION
 # ==========================================
 student = {
-    "name": "Alice", 
+    "name": "Taoshif", 
     "age": 20, 
     "grade": "A"
     }
